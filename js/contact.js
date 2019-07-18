@@ -22,7 +22,7 @@ $(document).ready(function(){
                 },
                 number: {
                     required: true,
-                    minlength: 5
+                    minlength: 4
                 },
                 email: {
                     required: true,
